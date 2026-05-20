@@ -1,0 +1,28 @@
+ul{
+    color: green;
+}
+
+p{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 180px;
+    margin-right: 80px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: lightgray;
+}
+
+
+h3{
+/*color: red;*/
+/*color: rgb(255,0,0)*/
+    color: #00ff00;
+}
+
+body{
+    background-size: cover;
+    background-image: url("download.jpg")
+}
+
