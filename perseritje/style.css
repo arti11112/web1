@@ -1,0 +1,16 @@
+.navbar{
+    text-align: center;
+    display: flex;
+    background-color: gray;
+    padding: 20px;
+}
+
+ul{
+    display: flex;
+    text-align: center;
+}
+
+.navbar img{
+    padding-left: 100px;
+    background-color: gray;
+}
