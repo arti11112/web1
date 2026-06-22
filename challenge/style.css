@@ -1,0 +1,44 @@
+.navbar{
+    overflow: hidden;
+    background-color: #333;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.navbar a{
+    float: left;
+    font-size: 16px;
+    color: red;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.photo img{
+    margin-top: 50px;
+    height: 250px;
+
+}
+
+.paragraphs p{
+    
+    margin-bottom: 50px;
+    display: flex;
+}
+
+.photo2 img{
+    margin-bottom: 700px;
+}
+
+.hero-section{
+    display: flex;
+}
+
+.hero-section img{
+    margin: 50px;
+}
+.hero-section p{
+    width: 600px;
+}
+.photo2 img{
+    margin-bottom: 200px;
+}
