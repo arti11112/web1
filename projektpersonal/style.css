@@ -1,0 +1,26 @@
+nav{
+    background-color: red;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+nav ul{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    justify-content: center;
+    list-style-type: none;
+}
+
+.herosection{
+    background-image: url(images.jfif);
+    height: 800px;
+    color: white;
+    background-position: center;
+    background-repeat: none;
+}
