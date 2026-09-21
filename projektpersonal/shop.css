@@ -44,6 +44,7 @@ ul img {
     width: 350px;
     height: 500px;
     color: white;
+    margin: 20px;
 }
 
 .card button{
@@ -61,4 +62,13 @@ ul img {
 .card img{
     height: 300px;
     width: 300px;
+}
+
+.card button {
+    border: 3px solid transparent;
+    border-radius: 10px;
+    background-color: red;
+    padding: 10px 20px;
+    color: white;
+    cursor: pointer;
 }
