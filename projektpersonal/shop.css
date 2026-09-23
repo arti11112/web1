@@ -72,3 +72,9 @@ ul img {
     color: white;
     cursor: pointer;
 }
+
+ul img {
+    margin-right: 200px;
+    height: 70px;
+    width: 50px;
+}

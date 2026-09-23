@@ -30,8 +30,8 @@ nav ul li a:hover {
     color: black;
 }
 
-img{
-    margin-left: 200px;
-    height: auto;
-    width: auto;
+ul img {
+    margin-right: 200px;
+    height: 70px;
+    width: 50px;
 }
