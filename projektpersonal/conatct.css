@@ -35,3 +35,48 @@ ul img {
     height: 70px;
     width: 50px;
 }
+
+fieldset {
+    position: relative;
+}
+
+fieldset img {
+    width: 520px;
+    height: 365px;
+    object-fit: cover;
+
+    position: absolute;
+    top: 20px;
+    right: 40px;
+
+    border-radius: 12px;
+}
+
+#firstname{
+    border: solid 2px red;
+}
+
+#lastname{
+    border: solid 2px black;
+}
+
+#email{
+    border: solid 2px red;
+}
+
+#male{
+    border: solid 2px black;
+}
+
+#female{
+    border: solid 2px red;
+}
+
+
+
+
+
+
+
+
+
